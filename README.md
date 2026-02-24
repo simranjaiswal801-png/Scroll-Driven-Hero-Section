@@ -50,13 +50,13 @@ The goal of this assignment was to build a visually engaging hero section that r
 
 ## 🌐 Live Demo
 
-(Add your GitHub Pages link here)
+https://simranjaiswal801-png.github.io/Scroll-Driven-Hero-Section/
 
 ---
 
 ## 📂 GitHub Repository
 
-(Add your repository link here)
+https://github.com/simranjaiswal801-png/Scroll-Driven-Hero-Section
 
 ---
 
@@ -73,7 +73,7 @@ Through this assignment, I learned:
 
 ## 👨‍💻 Author
 
-**Your Name Here**
+Simran Jaiswal
 
 ---
 
